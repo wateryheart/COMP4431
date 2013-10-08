@@ -1,0 +1,11 @@
+C:\Users\Chun Sum Mar\Desktop\lab2_source\bin\midi_sequencer.exe
+C:\Users\Chun Sum Mar\Desktop\lab2_source\bin\midi_sequencer.pdb
+C:\Users\Chun Sum Mar\Desktop\lab2_source\bin\midi_sequencer.xml
+C:\Users\Chun Sum Mar\Desktop\lab2_source\obj\Debug\midi_sequencer.Form1.resources
+C:\Users\Chun Sum Mar\Desktop\lab2_source\obj\Debug\midi.vbproj.GenerateResource.Cache
+C:\Users\Chun Sum Mar\Desktop\lab2_source\obj\Debug\midi_sequencer.exe
+C:\Users\Chun Sum Mar\Desktop\lab2_source\obj\Debug\midi_sequencer.xml
+C:\Users\Chun Sum Mar\Desktop\lab2_source\obj\Debug\midi_sequencer.pdb
+C:\Users\Chun Sum Mar\Desktop\Lab 2\obj\Debug\midi_sequencer.exe
+C:\Users\Chun Sum Mar\Desktop\Lab 2\obj\Debug\midi_sequencer.xml
+C:\Users\Chun Sum Mar\Desktop\Lab 2\obj\Debug\midi_sequencer.pdb

@@ -1,0 +1,10 @@
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\bin\audio_processing.exe
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\bin\audio_processing.pdb
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\bin\audio_processing.xml
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\bin\Interop.QuartzTypeLib.dll
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\obj\Debug\audio.vbprojResolveAssemblyReference.cache
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\obj\Debug\audio_processing.frmMain.resources
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\obj\Debug\audio.vbproj.GenerateResource.Cache
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\obj\Debug\audio_processing.exe
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\obj\Debug\audio_processing.xml
+C:\Users\Chun Sum Mar\Desktop\template_high_quality\obj\Debug\audio_processing.pdb

@@ -1,0 +1,8 @@
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\obj\Debug\midi_whiteboard.Form1.resources
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\obj\Debug\midi.vbproj.GenerateResource.Cache
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\bin\midi_whiteboard.exe
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\bin\midi_whiteboard.pdb
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\bin\midi_whiteboard.xml
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\obj\Debug\midi_whiteboard.exe
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\obj\Debug\midi_whiteboard.xml
+C:\Users\Chun Sum Mar\Desktop\lab3_source_whiteboard\obj\Debug\midi_whiteboard.pdb

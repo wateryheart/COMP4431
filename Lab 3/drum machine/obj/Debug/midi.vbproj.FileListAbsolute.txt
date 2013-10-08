@@ -1,0 +1,11 @@
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\bin\drum_machine.exe
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\bin\drum_machine.pdb
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\bin\drum_machine.xml
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\obj\Debug\drum_machine.Form1.resources
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\obj\Debug\midi.vbproj.GenerateResource.Cache
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\obj\Debug\drum_machine.exe
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\obj\Debug\drum_machine.xml
+C:\Users\Chun Sum Mar\Desktop\lab3_source_drum_machine\obj\Debug\drum_machine.pdb
+C:\Users\Chun Sum Mar\Desktop\drum machine\obj\Debug\drum_machine.exe
+C:\Users\Chun Sum Mar\Desktop\drum machine\obj\Debug\drum_machine.xml
+C:\Users\Chun Sum Mar\Desktop\drum machine\obj\Debug\drum_machine.pdb

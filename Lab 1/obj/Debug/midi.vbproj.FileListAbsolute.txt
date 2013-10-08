@@ -1,0 +1,11 @@
+C:\Users\Chun Sum Mar\Desktop\source\bin\midi_keyboard.exe
+C:\Users\Chun Sum Mar\Desktop\source\bin\midi_keyboard.pdb
+C:\Users\Chun Sum Mar\Desktop\source\bin\midi_keyboard.xml
+C:\Users\Chun Sum Mar\Desktop\source\obj\Debug\midi_keyboard.Form1.resources
+C:\Users\Chun Sum Mar\Desktop\source\obj\Debug\midi.vbproj.GenerateResource.Cache
+C:\Users\Chun Sum Mar\Desktop\source\obj\Debug\midi_keyboard.exe
+C:\Users\Chun Sum Mar\Desktop\source\obj\Debug\midi_keyboard.xml
+C:\Users\Chun Sum Mar\Desktop\source\obj\Debug\midi_keyboard.pdb
+C:\Users\Chun Sum Mar\Desktop\Lab 1\obj\Debug\midi_keyboard.exe
+C:\Users\Chun Sum Mar\Desktop\Lab 1\obj\Debug\midi_keyboard.xml
+C:\Users\Chun Sum Mar\Desktop\Lab 1\obj\Debug\midi_keyboard.pdb
